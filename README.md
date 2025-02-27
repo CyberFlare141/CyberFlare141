@@ -27,16 +27,13 @@ I am a **first-year BSc Computer Science and Engineering student** at **Ahsanull
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-### 🌐 Web Technologies:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ---
 
 ## 📌 Featured Projects
 
-- 🎮 **2D Side-Scrolling Game** - Designed animations, key input mechanics, and core game logic. *(Check it out in my repositories!)*
+- 🎮 **The Sword of the Pirate Hunter** - Designed animations, key input mechanics, and core game logic. *(Check it out in my repositories!)*
 - 🚀 More projects coming soon!
 
 ---
