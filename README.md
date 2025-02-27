@@ -28,7 +28,7 @@
 
 ![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-<img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400" height="200" />
+<img src="https://media.giphy.com/media/l41m3W3Z5z9B3PqM8/giphy.gif" width="400" height="200" />
 
 ---
 
@@ -77,7 +77,7 @@ I am a **first-year BSc Computer Science and Engineering student** at **Ahsanull
 
 ---
 
-## 📫 Connect with Me
+## 💌 Connect with Me
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -93,5 +93,3 @@ I am a **first-year BSc Computer Science and Engineering student** at **Ahsanull
 ### 🌟 "Let's build the future together!" 🚀
 
 ![Future GIF](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
-
-<img src="https://media.giphy.com/media/l3q2Ip7FrmPE1xFGc/giphy.gif" width="400" height="200" />
